@@ -1,2 +1,3 @@
 # TIL
-today i learn
+today i learn(今天我学到的东西) 一些小的东西 不足以写一篇博客 一些小的知识点 
+
