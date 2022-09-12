@@ -1,9 +1,8 @@
 ## 预览svg的windows 插件
 
-**问题由来**: 前端项目使用svg 图片，但是在文件夹里面预览的时候只能看到相同的图标无法具体的区分哪个是哪个，如果要区分的话就要点开图标，在网页中打开，这样太鸡肋了
-
+**问题由来**: 前端项目使用svg 图片，但是在文件夹里面预览的时候只能看到相同的图标无法具体的区分哪个是哪个，如果要区分的话就要点开图标，在网页中打开，这样太鸡肋
 **解决问题**： 下载windows 预览svg 的插件
-下载地址 [SVG-Explorer-Extension](https://download.cnet.com/SVG-Explorer-Extension/3000-2248_4-78237543.html)
+下载地址 [SVG-Explorer-Extension](https://download.cnet.com/svg-explorer-Extension/3000-2248_4-78237543.html)
 
 ## umi中的global.less 问题探究
 *之前探有一个问题就是说umi中的global.less中定义的全局变量没有办法在其他less 文件里面引用，然后需要在每个单独的less 文件里面再引入一下global.less 文件，这样的话又会有新的问题，就是说全局变量的自动补全不好用，如果定义的全局变量过多的话，那么我想用变量的时候找不到岂不是很蛋疼 ，然后基于这个问题又去找到了一个less var的vscode插件来帮助我们自动补全代码*
