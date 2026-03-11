@@ -107,3 +107,5 @@ function solveCoordinates(p1, p2, p3, p) {
     return { t1, t2 };
 }
 ```
+
+![解题的思路](./notes.svg)
